@@ -17,7 +17,7 @@ More the culture than the arts, but we're making use of ALA & SRO
 Florian and I, are both newbies to GovHack :)
 
 # GovHack Perth Promising Young Hacker
-I, (Dominic), turned nineteen on August 7th, so I', still technically eligible for this prize.
+I, (Dominic), turn nineteen on August 7th, so I', still technically eligible for this prize.
 
 # Landgate Most Innovative use of Location Information Prize
 
